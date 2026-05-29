@@ -15316,7 +15316,7 @@ msgstr "العنوان الذي ترسل منه مساحة العمل وتستق
 #. js-lingui-id: Z4WP0F
 #: src/modules/settings/accounts/components/SettingsAccountsNewEmailGroupChannel.tsx
 msgid "The address your workspace will send and receive email from (e.g. support@mycompany.com). Outbound sending requires the domain to be verified in Outbound Domains."
-msgstr "العنوان الذي ستقوم مساحة العمل الخاصة بك بالإرسال والاستقبال منه (مثال: support@mycompany.com). يتطلب الإرسال الصادر التحقق من النطاق في "نطاقات الإرسال الصادر"."
+msgstr "العنوان الذي ستقوم مساحة العمل الخاصة بك بالإرسال والاستقبال منه (مثال: support@mycompany.com). يتطلب الإرسال الصادر التحقق من النطاق في \"نطاقات الإرسال الصادر\"."
 
 #. js-lingui-id: oVH0Mt
 #: src/pages/settings/admin-panel/SettingsAdminNewAiProvider.tsx
