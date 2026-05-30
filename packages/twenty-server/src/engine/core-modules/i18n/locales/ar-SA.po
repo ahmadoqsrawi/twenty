@@ -2615,12 +2615,12 @@ msgstr "معرف البيانات الوصفية للحقل مطلوب لإنش�
 #. js-lingui-id: DU4jcg
 #: src/engine/metadata-modules/view-group/exceptions/view-group.exception.ts
 msgid "FieldMetadataId is required to create a view group."
-msgstr "أيّدمجانتاتاديتااهلياذغايبضرورتلإنشاءمجموععرض."
+msgstr "معرف البيانات الوصفية للحقل مطلوب لإنشاء مجموعة عرض."
 
 #. js-lingui-id: snEXuU
 #: src/engine/metadata-modules/view-sort/exceptions/view-sort.exception.ts
 msgid "FieldMetadataId is required to create a view sort."
-msgstr "أيّدمجانتاتاديتااهلياذغايبضرورتلإنشاءقمترتيب."
+msgstr "معرف البيانات الوصفية للحقل مطلوب لإنشاء فرز عرض."
 
 #. js-lingui-id: VgGXR3
 #: src/engine/core-modules/file/files-field/services/files-field.service.ts
@@ -4565,7 +4565,7 @@ msgstr "اسم تشغيل سير العمل"
 #: src/engine/metadata-modules/flat-object-metadata/validators/utils/validate-flat-object-metadata-name-and-labels.util.ts
 #: src/engine/metadata-modules/flat-object-metadata/validators/utils/validate-flat-object-metadata-name-and-labels.util.ts
 msgid "Names are not synced with labels"
-msgstr "الأسماء غير متزامنة مع التسمية."
+msgstr "الأسماء غير متزامنة مع التسميات"
 
 #. js-lingui-id: RJyaoR
 #: src/engine/workspace-manager/workspace-migration/workspace-migration-builder/validators/services/flat-navigation-menu-item-validator.service.ts
@@ -4979,7 +4979,7 @@ msgstr "العنصر بنفس المعرّف العالمي موجود بالف�
 #. js-lingui-id: 53pIyA
 #: src/engine/metadata-modules/view/exceptions/view.exception.ts
 msgid "ObjectMetadataId is required to create a view."
-msgstr "أيّدجازاتاتاديتااهلياذغايبضرورتلإنشاءعرض."
+msgstr "معرف البيانات الوصفية للعنصر مطلوب لإنشاء عرض."
 
 #. js-lingui-id: dzQfDY
 #: src/engine/api/graphql/graphql-query-runner/group-by/resolvers/utils/format-result-with-group-by-dimension-values.util.ts
@@ -7968,27 +7968,27 @@ msgstr "viewId مطلوب لنوع VIEW"
 #. js-lingui-id: l88nXn
 #: src/engine/metadata-modules/view-field/exceptions/view-field.exception.ts
 msgid "ViewId is required to create a view field."
-msgstr "أيّدجزويذغايبضرورتلإنشاءمجالعرض."
+msgstr "معرف العرض مطلوب لإنشاء حقل عرض."
 
 #. js-lingui-id: 9XMTpT
 #: src/engine/metadata-modules/view-filter-group/exceptions/view-filter-group.exception.ts
 msgid "ViewId is required to create a view filter group."
-msgstr "أيّدجزويذغايبضرورتلإنشاءمجموعفلترة."
+msgstr "معرف العرض مطلوب لإنشاء مجموعة عوامل تصفية العرض."
 
 #. js-lingui-id: pCCxli
 #: src/engine/metadata-modules/view-filter/exceptions/view-filter.exception.ts
 msgid "ViewId is required to create a view filter."
-msgstr "أيّدجزويذغايبضرورتلإنشاءفلترة."
+msgstr "معرف العرض مطلوب لإنشاء فلتر عرض."
 
 #. js-lingui-id: 1X1RW5
 #: src/engine/metadata-modules/view-group/exceptions/view-group.exception.ts
 msgid "ViewId is required to create a view group."
-msgstr "أيّدجزويذغايبضرورتلإنشاءمجموععرض."
+msgstr "معرف العرض مطلوب لإنشاء مجموعة عرض."
 
 #. js-lingui-id: uGUFcy
 #: src/engine/metadata-modules/view-sort/exceptions/view-sort.exception.ts
 msgid "ViewId is required to create a view sort."
-msgstr "أيّدجزويذغايبضرورتلإنشاءقمترتيب."
+msgstr "معرف العرض مطلوب لإنشاء فرز عرض."
 
 #. js-lingui-id: xvV2NJ
 #: src/engine/twenty-orm/error-handling/compute-twenty-orm-exception.ts
@@ -8442,32 +8442,32 @@ msgstr "مخطط مساحة العمل غير موجود."
 #. js-lingui-id: kjLpTn
 #: src/engine/metadata-modules/view-field/exceptions/view-field.exception.ts
 msgid "WorkspaceId is required to create a view field."
-msgstr "أيّدجزابصمويلاذغايبضرورتلإنشاءمجالعرض."
+msgstr "معرف مساحة العمل مطلوب لإنشاء حقل عرض."
 
 #. js-lingui-id: zWj6VZ
 #: src/engine/metadata-modules/view-filter-group/exceptions/view-filter-group.exception.ts
 msgid "WorkspaceId is required to create a view filter group."
-msgstr "أيّدجزابصمويلاذغايبضرورتلإنشاءمجموعفلترة."
+msgstr "معرف مساحة العمل مطلوب لإنشاء مجموعة عوامل تصفية العرض."
 
 #. js-lingui-id: jQMXtD
 #: src/engine/metadata-modules/view-filter/exceptions/view-filter.exception.ts
 msgid "WorkspaceId is required to create a view filter."
-msgstr "أيّدجزابصمويلاذغايبضرورتلإنشاءفلترة."
+msgstr "معرف مساحة العمل مطلوب لإنشاء فلتر عرض."
 
 #. js-lingui-id: NAoJAX
 #: src/engine/metadata-modules/view-group/exceptions/view-group.exception.ts
 msgid "WorkspaceId is required to create a view group."
-msgstr "أيّدجزابصمويلاذغايبضرورتلإنشاءمجموععرض."
+msgstr "معرف مساحة العمل مطلوب لإنشاء مجموعة عرض."
 
 #. js-lingui-id: hU1QaN
 #: src/engine/metadata-modules/view-sort/exceptions/view-sort.exception.ts
 msgid "WorkspaceId is required to create a view sort."
-msgstr "أيّدجزابصمويلاذغايبضرورتلإنشاءقمترتيب."
+msgstr "معرف مساحة العمل مطلوب لإنشاء فرز عرض."
 
 #. js-lingui-id: jtb/lI
 #: src/engine/metadata-modules/view/exceptions/view.exception.ts
 msgid "WorkspaceId is required to create a view."
-msgstr "أيّدجزابصمويلاذغايبضرورتلإنشاءعرض."
+msgstr "معرف مساحة العمل مطلوب لإنشاء عرض."
 
 #. js-lingui-id: EtzFC0
 #: src/engine/workspace-manager/twenty-standard-application/utils/field-metadata/compute-blocklist-standard-flat-field-metadata.util.ts
